@@ -3792,11 +3792,12 @@
 
     {
         "name": "PCPartPicker",
-        "url": "http://pcpartpicker.com/contact/",
-        "difficulty": "hard",
-        "notes": "I had to contact via email, but they then immediately deleted my account",
+        "url": "https://pcpartpicker.com",
+        "difficulty": "easy",
+        "notes": "Click your username in the top right, then go to preferences, and on the left side of the page there is a delete account button.",
         "domains": [
             "pcpartpicker.com"
+            "pcpartpicker.co.uk"
         ]
     },
 
